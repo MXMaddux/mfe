@@ -7,7 +7,8 @@ const App = () => {
   return (
     <BrowserRouter>
       <div>
-        <Header />
+        {/* <Header /> */}
+        <h1>Hey there!!!!</h1>
         <MarketingApp />
       </div>
     </BrowserRouter>
